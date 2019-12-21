@@ -14,7 +14,7 @@
 ## 网红脸生成器
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/wanghong.png)<br/><br/>
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/example_wanghong.jpg)<br/><br/>
-&emsp;&emsp;纯随机生成(无筛选)的一万张生成图片数据集：<a href='https://pan.baidu.com/s/1AqlNlTY0-tbEORPuKLdkqg' target='_blank'>https://pan.baidu.com/s/1AqlNlTY0-tbEORPuKLdkqg</a>  提取码：c7v9<br /><br />
+&emsp;&emsp;纯随机生成(无筛选)的一万张生成图片数据集：<a href='https://pan.baidu.com/s/1AqlNlTY0-tbEORPuKLdkqg'>https://pan.baidu.com/s/1AqlNlTY0-tbEORPuKLdkqg</a>  提取码：c7v9<br /><br />
 
 ## 明星脸生成器
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/star.png)<br/><br/>
