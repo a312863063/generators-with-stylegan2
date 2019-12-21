@@ -10,6 +10,28 @@
 
 <br /><br />
 ## 效果预览
+
+### 网红脸生成器
+&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/wanghong.png)<br/><br/>
+&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/example_wanghong.jpg)<br/><br/>
+&emsp;&emsp;纯随机生成、无筛选的一万张生成图片数据集：<a href='https://pan.baidu.com/s/1AqlNlTY0-tbEORPuKLdkqg'>https://pan.baidu.com/s/1AqlNlTY0-tbEORPuKLdkqg</a>  提取码：c7v9 
+
+### 明星脸生成器
+&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/star.png)<br/><br/>
+&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/example_star.jpg)<br/><br/>
+&emsp;&emsp;纯随机生成、无筛选的一万张生成图片数据集：<a href='https://pan.baidu.com/s/1LabQMFLsKkYK3hLgRCQ-0A'>https://pan.baidu.com/s/1LabQMFLsKkYK3hLgRCQ-0A</a>  提取码：p43h
+
+### 超模脸生成器
+&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/model.png)<br/><br/>
+&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/example_model.jpg)<br/><br/>
+&emsp;&emsp;纯随机生成、无筛选的一万张生成图片数据集：<a href='https://pan.baidu.com/s/1AT4q1JkMvAxWrHMs4Af1wg'>https://pan.baidu.com/s/1AT4q1JkMvAxWrHMs4Af1wg</a>  提取码：vxf4
+
+### 萌娃脸生成器
+&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/kid.png)<br/><br/>
+&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/example_kids.jpg)<br/><br/>
+&emsp;&emsp;纯随机生成、无筛选的一万张生成图片数据集：<a href='https://pan.baidu.com/s/1CQYQFiIdXxCSjJwSUo_tvw'>https://pan.baidu.com/s/1CQYQFiIdXxCSjJwSUo_tvw</a>  提取码：4bd0
+
 ### 黄种人生成器
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/yellow.png)<br/><br/>
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/example_yellow.jpg)<br/><br/>
+&emsp;&emsp;纯随机生成、无筛选的一万张生成图片数据集：<a href='https://pan.baidu.com/s/1uC5fQ4UTALA1uU36Cgnnnw'>https://pan.baidu.com/s/1uC5fQ4UTALA1uU36Cgnnnw</a>  提取码：rqvq 
