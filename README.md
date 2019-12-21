@@ -1,7 +1,7 @@
-# 基于StyleGAN2制作的新版人脸生成器
+# 基于StyleGAN2的新版人脸生成器
 
 <br />
-&emsp;&emsp;这儿是一批基于StyleGAN2制作的新版人脸生成器，即对于旧版的<a href='https://github.com/a312863063/seeprettyface-generator-yellow'>黄种人脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-wanghong'>网红脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-star'>明星脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-model'>超模脸生成器</a>和<a href='https://github.com/a312863063/seeprettyface-generator-babies'>萌娃脸生成器</a>进行StyleGAN2的重制，使生成效果得到大幅提升。
+&emsp;&emsp;这儿是一批基于StyleGAN2制作的新版人脸生成器，即对于旧版的<a href='https://github.com/a312863063/seeprettyface-generator-yellow'>黄种人脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-wanghong'>网红脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-star'>明星脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-model'>超模脸生成器</a>和<a href='https://github.com/a312863063/seeprettyface-generator-babies'>萌娃脸生成器</a>施行了基于StyleGAN2的重制，使生成效果得到大幅提升。
 
 <br /><br />
 ## 新版的提升与价值何在？
@@ -11,3 +11,5 @@
 <br /><br />
 ## 效果预览
 ### 黄种人生成器
+&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/yellow.png)<br/><br/>
+&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/example_yellow.jpg)<br/><br/>
