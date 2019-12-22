@@ -46,6 +46,12 @@
 &emsp;&emsp;- On Windows, the compilation requires Microsoft Visual Studio to be in PATH. We recommend installing <a href='https://visualstudio.microsoft.com/vs/'>Visual Studio Community Edition</a> and adding into PATH using "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\Build\vcvars64.bat".<br/>
 &emsp;&emsp;我的测试环境配置为：Win10,1050Ti,CUDA 10.0,CuDNN 7.6.5,tensorflow-gpu 1.14.0，VS2017可完美运行。<br/><br/>
 
+## Windows下常见问题 ：Could not find MSVC/GCC/CLANG installation on this computer如何解决？
+&emsp;&emsp;在安装VS2017/VS2019时一定要将‘使用C++的桌面开发’选上（如下图所示）
+![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/SMVC_solution/solution1.png)
+&emsp;&emsp;装好之后进入C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/ 目录下会有一个版本号的文件夹，将版本替换为dnnlib/tflib/custom_ops.py 29行的对应版本号（那是我安装的版本），如下图所示。
+![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/SMVC_solution/solution2.png)
+
 # 运行步骤
 &emsp;&emsp;1.在networks文件夹中按照txt地址下载对应模型，放在该位置<br/>
 &emsp;&emsp;2.在main.py中选择对应的模型和生成数量，并运行main.py<br/>
