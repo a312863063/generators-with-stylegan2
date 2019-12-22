@@ -128,6 +128,5 @@
 ## 21.调整向白种人衍变
 ![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/edit_photo/change_race_white.jpg)<br /><br /><br /><br /><br />
 ## 更多尝试：合成会说话的人脸视频
-&emsp;&emsp;推荐<a href='https://github.com/NVlabs/few-shot-vid2vid'>few shot vid to vid</a>方法（效果如下图所示）。<br /><br /><br />
-![Image text](https://github.com/NVlabs/few-shot-vid2vid/raw/master/imgs/face.gif)<br />
+&emsp;&emsp;推荐few shot vid to vid（<a href='https://github.com/NVlabs/few-shot-vid2vid'>点此跳转</a>）方法（效果如下图所示）。<br /><br /><br />
 ![Image text](https://github.com/NVlabs/few-shot-vid2vid/raw/master/imgs/mona_lisa.gif)<br /><br />
