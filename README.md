@@ -127,7 +127,7 @@
 
 ## 更多尝试：合成会说话的人脸视频
 &emsp;&emsp;推荐Few Shot Vid-to-vid（<a href='https://github.com/NVlabs/few-shot-vid2vid'>点此跳转</a>）方法（效果如下图所示）。<br /><br /><br />
-![Image text](https://github.com/NVlabs/few-shot-vid2vid/raw/master/imgs/mona_lisa.gif)<br /><br /><br/>
+![Image text](https://github.com/NVlabs/few-shot-vid2vid/raw/master/imgs/mona_lisa.gif)<br /><br /><br/><br/>
 
 # 了解技术原理 & 获取训练集：[点此进入](http://www.seeprettyface.com/)
 ![Image text](https://github.com/a312863063/seeprettyface/blob/master/EP001-01.png)<br/><br/><br/>
