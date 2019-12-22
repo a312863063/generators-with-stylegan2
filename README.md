@@ -60,7 +60,7 @@
 # 了解技术原理 & 获取训练集：[点此进入](http://www.seeprettyface.com/)
 ![Image text](https://github.com/a312863063/seeprettyface/blob/master/EP001-01.png)<br/><br/><br/>
 
-# 赠品：基于StyleGAN2的属性编辑器
+## 赠品：基于StyleGAN2的属性编辑器
 &emsp;&emsp;基于StyleGAN2的属性编辑器(edit_photo.py)包含了与<a href='https://github.com/a312863063/seeprettyface-face_editor'>旧版属性编辑器</a>基本相同的内容，含有21种可调整的方向，可实现简单的人脸属性编辑。此属性编辑器适用于此项目的所有生成器以及官方的生成器。<br /><br />
 
 ## 调整样例
