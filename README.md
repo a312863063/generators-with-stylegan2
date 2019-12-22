@@ -57,10 +57,7 @@
 &emsp;&emsp;2.在main.py中选择对应的模型和生成数量，并运行main.py<br/>
 <br /><br /><br />
 
-# 了解技术原理 & 获取训练集：[点此进入](http://www.seeprettyface.com/)
-![Image text](https://github.com/a312863063/seeprettyface/blob/master/EP001-01.png)<br/><br/><br/>
-
-## 赠品：基于StyleGAN2的属性编辑器
+# 赠品：基于StyleGAN2的属性编辑器
 &emsp;&emsp;基于StyleGAN2的属性编辑器(edit_photo.py)包含了与<a href='https://github.com/a312863063/seeprettyface-face_editor'>旧版属性编辑器</a>基本相同的内容，含有21种可调整的方向，可实现简单的人脸属性编辑。此属性编辑器适用于此项目的所有生成器以及官方生成器。<br /><br />
 
 ## 调整样例
@@ -127,6 +124,10 @@
 
 ## 21.调整向白种人衍变
 ![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/edit_photo/change_race_white.jpg)<br /><br /><br /><br /><br />
+
 ## 更多尝试：合成会说话的人脸视频
 &emsp;&emsp;推荐Few Shot Vid-to-vid（<a href='https://github.com/NVlabs/few-shot-vid2vid'>点此跳转</a>）方法（效果如下图所示）。<br /><br /><br />
-![Image text](https://github.com/NVlabs/few-shot-vid2vid/raw/master/imgs/mona_lisa.gif)<br /><br />
+![Image text](https://github.com/NVlabs/few-shot-vid2vid/raw/master/imgs/mona_lisa.gif)<br /><br /><br/>
+
+# 了解技术原理 & 获取训练集：[点此进入](http://www.seeprettyface.com/)
+![Image text](https://github.com/a312863063/seeprettyface/blob/master/EP001-01.png)<br/><br/><br/>
