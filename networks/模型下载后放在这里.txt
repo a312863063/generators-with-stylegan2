@@ -8,10 +8,10 @@
               下载地址：https://pan.baidu.com/s/1E1F7cJjyHUC_fe70HGAK-w  提取码：tv56
 
 付费模型：
-      网红脸生成器（generator_wanghong-stylegan2-config-f.pkl）-1500元
-      明星脸生成器（generator_star-stylegan2-config-f.pkl）-1500元
-      超模脸生成器（generator_model-stylegan2-config-f.pkl）-1500元
-      萌娃脸生成器（generator_baby-stylegan2-config-f.pkl）-1500元
+      网红脸生成器（generator_wanghong-stylegan2-config-f.pkl）-1500元 （个人爱好者可减免）
+      明星脸生成器（generator_star-stylegan2-config-f.pkl）-1500元 （个人爱好者可减免）
+      超模脸生成器（generator_model-stylegan2-config-f.pkl）-1500元 （个人爱好者可减免）
+      萌娃脸生成器（generator_baby-stylegan2-config-f.pkl）-1500元 （个人爱好者可减免）
 
 获取方式：
       联系QQ：312863063购买。
