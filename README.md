@@ -1,12 +1,12 @@
 # 基于StyleGAN2的新版人脸生成器
 
 <br />
-&emsp;&emsp;这儿是一批基于StyleGAN2制作的新版人脸生成器，即对于旧版的<a href='https://github.com/a312863063/seeprettyface-generator-yellow'>黄种人脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-wanghong'>网红脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-star'>明星脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-model'>超模脸生成器</a>和<a href='https://github.com/a312863063/seeprettyface-generator-babies'>萌娃脸生成器</a>进行了基于StyleGAN2的重制，使生成效果得到大幅提升。
+&emsp;&emsp;这儿是一批基于StyleGAN2制作的新版人脸生成器，即对于旧版的<a href='https://github.com/a312863063/seeprettyface-generator-yellow'>黄种人脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-wanghong'>网红脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-star'>明星脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-model'>超模脸生成器</a>和<a href='https://github.com/a312863063/seeprettyface-generator-babies'>萌娃脸生成器</a>进行了基于StyleGAN2的重制，使生成效果得到大幅提升。生成器的作用是可提供我们各种样式的人脸素材，值得注意的是，每张人脸都是不存在于这个世界上的AI虚拟人物，他们独特且永不重复。
 
-<br /><br />
+<br /><br /><br />
 ## 新版的提升与价值何在？
 &emsp;&emsp;基于StyleGAN2制作的版本消除了图片中水滴斑点和扭曲/损坏现象的出现，使生成的成功率接近100%（可参见下方随机生成的数据集），能被应用于大批量生成任务之中；另外图片的质量进一步提升，清晰度已逼近于官方训练所采用的数据集。<b>我希望，这个项目能为影视工作者、广告工作者和艺术工作者们助力，同时为普通爱好者们赋能。</b><br />
-&emsp;&emsp;注意，由于模型的训练成本高，因此除了黄种人脸生成器可免费使用外，其他生成器暂时需要付费购买。此项目并非为了盈利，而是研究生成模型需要更多的显卡，所有的收入都会被用在科研当中。模型版权拥有者为：www.seeprettyface.com 。
+&emsp;&emsp;注意，黄种人脸生成器、网红脸生成器和萌娃脸生成器这三款新版生成器已免费开源供大家玩耍，而明星脸生成器与超模脸生成器属于商用模型，有购买需求的客户请联系邮件a312863063@126.com或QQ：312863063获取。此项目模型的版权拥有者为：www.seeprettyface.com 。
 
 <br /><br />
 # 效果预览
@@ -131,3 +131,12 @@
 
 # 了解技术原理 & 获取训练集：[点此进入](http://www.seeprettyface.com/)
 ![Image text](https://github.com/a312863063/seeprettyface/blob/master/EP001-01.png)<br/><br/><br/>
+
+## 小小的赞助~
+<p align="center">
+	<img src="https://github.com/a312863063/seeprettyface/blob/master/sponsor.jpg" alt="Sample"  width="324" height="504">
+	<p align="center">
+		<em>若对您有帮助可给予小小的赞助~</em>
+	</p>
+</p>
+<br/><br/><br/>
