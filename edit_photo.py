@@ -55,7 +55,7 @@ def main():
     w = Gs_network.components.mapping.run(z, None)
     w = w_avg + (w - w_avg) * truncation_psi
 
-    # 在这儿选择调整的方向，共有23种调整方式，它们的名称与分别对应的功能如下所示。
+    # 在这儿选择调整的方向，共有21种调整方式，它们的名称与分别对应的功能如下所示。
     '''
         age.npy - 调整年龄
         angle_horizontal.npy - 在左右方向上调整人脸角度
