@@ -1,7 +1,7 @@
 # 基于StyleGAN2的新版人脸生成器
 
 <br />
-&emsp;&emsp;这儿是一批基于StyleGAN2制作的新版人脸生成器，即对于旧版的<a href='https://github.com/a312863063/seeprettyface-generator-yellow'>黄种人脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-wanghong'>网红脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-star'>明星脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-model'>超模脸生成器</a>和<a href='https://github.com/a312863063/seeprettyface-generator-babies'>萌娃脸生成器</a>进行了基于StyleGAN2的重制，使生成效果得到大幅提升。生成器的作用是可提供我们各种样式的人脸素材，值得注意的是，<b>每张人脸都是不存在于这个世界上的AI虚拟人物，他们独特且永不重复，请善待、善用他们</b>。
+&emsp;&emsp;这儿是一批基于StyleGAN2制作的新版人脸生成器，即对于旧版的<a href='https://github.com/a312863063/seeprettyface-generator-yellow'>黄种人脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-wanghong'>网红脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-star'>明星脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-model'>超模脸生成器</a>和<a href='https://github.com/a312863063/seeprettyface-generator-babies'>萌娃脸生成器</a>进行了基于StyleGAN2的重制，使生成效果得到大幅提升。生成器的作用是可提供我们各种样式的人脸素材，值得注意的是，<b>每张人脸都是不存在于这个世界上的AI虚拟人物，他们独特且永不重复</b>。
 
 <br /><br /><br />
 ## 新版的提升与价值何在？
