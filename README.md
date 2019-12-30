@@ -39,6 +39,7 @@
 
 ## 混血人脸生成器（非卖）
 &emsp;&emsp;将中国明星脸生成器与世界超模脸生成器按一定比例融合起来，就制作出了此混血人脸生成器。<b>此生成器合成的人脸具备独特且卓绝的美学风格，是目前AI画出的最好看的人脸生成器</b>～<br/>
+&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/mixed-blood.png)<br/><br/>
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/example_mixed-blood.jpg)<br/><br/><br/><br/>
 
 # 环境配置
