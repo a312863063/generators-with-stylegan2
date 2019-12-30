@@ -63,7 +63,7 @@
 <br /><br /><br />
 
 # 赠品：基于StyleGAN2的属性编辑器
-&emsp;&emsp;基于StyleGAN2的属性编辑器(edit_photo.py)包含了与<a href='https://github.com/a312863063/seeprettyface-face_editor'>旧版属性编辑器</a>基本相同的内容，含有21种可调整的方向，可实现简单的人脸属性编辑。此属性编辑器适用于此项目的所有生成器以及官方生成器。<br /><br />
+&emsp;&emsp;基于StyleGAN2的属性编辑器(edit_photo.py)包含了与<a href='https://github.com/a312863063/seeprettyface-face_editor'>旧版属性编辑器</a>基本相同的内容，含有21种可调整的方向，可实现简单的人脸属性编辑。此属性编辑器适用于此项目的所有生成器（即黄种人、网红脸、明星脸、超模脸、萌娃脸和混血脸）以及官方生成器。<br /><br />
 
 ## 调整样例
 <br /><b>下述样例均采用黄种人脸生成器。</b><br />
