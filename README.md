@@ -5,7 +5,7 @@
 
 <br /><br /><br />
 ## 新版的提升与价值何在？
-&emsp;&emsp;基于StyleGAN2制作的版本消除了图片中水滴斑点和扭曲/损坏现象的出现，使生成的成功率接近100%（可参见下方随机生成的数据集），能被应用于大批量生成任务之中；另外图片的质量进一步提升，清晰度已逼近于官方训练所采用的数据集。<b>我希望，这个项目能为影视工作者、广告工作者和游戏工作者们助力，同时为普通爱好者们赋能。</b><br />
+&emsp;&emsp;基于StyleGAN2制作的版本消除了图片中水滴斑点和扭曲/损坏现象的出现，使生成的成功率接近100%（可参见下方随机生成的数据集），能被应用于大批量生成任务之中；另外图片的质量进一步提升，清晰度已逼近于官方训练所采用的数据集。<b>我希望，这个项目能为影视、广告、游戏和医美工作者们助力，同时为普通爱好者们赋能。</b><br />
 &emsp;&emsp;注意，黄种人脸生成器、网红脸生成器和萌娃脸生成器这三款新版生成器已免费开源供大家玩耍，而明星脸生成器与超模脸生成器属于商用模型，有购买需求的客户请联系邮件a312863063@126.com或QQ：312863063获取。<br />
 &emsp;&emsp;此项目模型的版权拥有者为：www.seeprettyface.com 。
 
@@ -36,6 +36,10 @@
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/yellow.png)<br/><br/>
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/example_yellow.jpg)<br/><br/>
 &emsp;&emsp;纯随机生成(无筛选)的一万张生成图片数据集：<a href='https://pan.baidu.com/s/1uC5fQ4UTALA1uU36Cgnnnw'>https://pan.baidu.com/s/1uC5fQ4UTALA1uU36Cgnnnw</a>  提取码：rqvq <br/><br/>
+
+## 混血人脸生成器（非卖）
+&emsp;&emsp;将中国明星脸生成器与世界超模脸生成器按一定比例融合起来，就制作出了此混血人脸生成器。<b>此生成器合成的人脸具备独特且卓绝的美学风格，是目前AI画出的最好看的人脸生成器</b>～<br/>
+&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/example_mixed-blood.jpg)<br/><br/>
 
 # 环境配置
 &emsp;&emsp;· Both Linux and Windows are supported. Linux is recommended for performance and compatibility reasons.<br/>
