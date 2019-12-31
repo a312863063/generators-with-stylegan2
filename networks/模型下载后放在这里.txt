@@ -8,14 +8,16 @@
               
        萌娃脸生成器（generator_baby-stylegan2-config-f.pkl）:
               下载地址：https://pan.baidu.com/s/10qWI_g5b0AQId06BbmO4jg  提取码：5nj8
+              
+       明星脸生成器（generator_star-stylegan2-config-f.pkl）：
+              下载地址：https://pan.baidu.com/s/13d79Sv9J0-QQpYXeFtpAeA  提取码：98wk
+            
+       超模脸生成器（generator_model-stylegan2-config-f.pkl）：
+              下载地址：https://pan.baidu.com/s/1i7_R1PTuSgEwL0nETF9zxA  提取码：5d4f
 
-商用模型：
-      明星脸生成器（generator_star-stylegan2-config-f.pkl）
-      超模脸生成器（generator_model-stylegan2-config-f.pkl）
-
-商用模型获取方式：
-      联系邮件： a312863063@126.com
-      联系QQ： 312863063
+特制模型：
+       黄金比例混血脸生成器（generator_mixed-blood-stylegan2-config-f.pkl）:
+              已被买断，非卖品。
 
 模型效果预览（均含1万张纯随机的生成样本）：
       网红脸数据集：
@@ -32,3 +34,7 @@
 ---------------------------------------------------
 模型版权所有：
        Copyright(c) 2018, seeprettyface.com, BUPT_GWY.
+
+用作商业开发联系方式：
+      联系邮件： a312863063@126.com
+      联系QQ： 312863063
