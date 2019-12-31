@@ -134,7 +134,7 @@
 
 ## What next:
 &emsp;&emsp;There are three steps that the virtual person take to replace the real person:<br/>
-1.The virtual person has an attractive appearance that makes people fall in love at first sight.
-2.The Virtual person has various postures that make people feel natural and comfortable.
-3.The virtual person has a lovely character that makes people feel warm and cute.
+1.The virtual person has an attractive appearance that makes people fall in love at first sight.<br />
+2.The Virtual person has various postures that make people feel natural and comfortable.<br />
+3.The virtual person has a lovely character that makes people feel warm and cute.<br />
 <br/><br/><br/>
