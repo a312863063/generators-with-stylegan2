@@ -30,7 +30,6 @@
 ## Yellow Face Generator
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/yellow.png)<br/><br/>
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/example_yellow.jpg)<br/><br/>
-&emsp;&emsp;纯随机生成(无筛选)的一万张生成图片数据集：<a href='https://pan.baidu.com/s/1uC5fQ4UTALA1uU36Cgnnnw'>https://pan.baidu.com/s/1uC5fQ4UTALA1uU36Cgnnnw</a>  提取码：rqvq <br/><br/>
 
 ## Mixed-blood Face Generator（Not available）
 &emsp;&emsp;Do you know what the best looking human face looks like? I combined the Chinese pop-star face generator with the world's supermodel face generator in a carefully modulated ratio to create this mixed-blood face generator. <b>The face synthesized by this generator has a unique and outstanding aesthetic style (the customer's evaluation is "Maquatte mask blends with the charm of Orientals"), which in my opinion is the best-looking face currently drawn by AI Generator </b>. However, this generator has been bought out and is not for sale.<br/>
