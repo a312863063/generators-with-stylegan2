@@ -58,7 +58,7 @@
 <br /><br /><br />
 
 # Giveaway: Attribute Editor based on StyleGAN2
-&emsp;&emsp;The StyleGAN2-based attribute editor (edit_photo.py) contains the same content as <a href='https://github.com/a312863063/seeprettyface-face_editor'> legacy attribute editor </a>, containing 21 Adjustable orientation for simple face attribute editing. This property editor applies to all generators of this project (ie yellow, internet-celebrity face, star face, supermodel face, cute baby face and mixed-blood face) as well as official generators.<br /><br />
+&emsp;&emsp;The StyleGAN2-based attribute editor (edit_photo.py) contains the same content as <a href='https://github.com/a312863063/seeprettyface-face_editor'> legacy attribute editor </a>, containing 21 adjustable orientation for simple face attribute editing. This attribute editor applies to all generators of this project (ie yellow, internet-celebrity, star, supermodel, cute baby and mixed-blood face generator) as well as official face generator.<br /><br />
 
 ## Adjustment example
 <br /><b>The following examples use the yellow face generator.</b><br />
