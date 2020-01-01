@@ -129,7 +129,7 @@
 &emsp;&emsp;Recommend Few Shot Vid-to-vid (<a href='https://github.com/NVlabs/few-shot-vid2vid'> Click here to jump </a>) method (the effect is shown in the figure below). <br /> <br /> <br />
 ![Image text](https://github.com/NVlabs/few-shot-vid2vid/raw/master/imgs/mona_lisa.gif)<br /><br /><br/><br/>
 
-# Learn technical principles & Get training set: [Goto www.seeprettyface.com](http://www.seeprettyface.com/)
+# Learn technical principles & Get training set: [goto www.seeprettyface.com](http://www.seeprettyface.com/)
 ![Image text](https://github.com/a312863063/seeprettyface/blob/master/EP001-01.png)<br/><br/><br/>
 
 ## What next:
