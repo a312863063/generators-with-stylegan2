@@ -31,8 +31,8 @@
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/yellow.png)<br/><br/>
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/example_yellow.jpg)<br/><br/>
 
-## Mixed-blood Face Generator（Not available）
-&emsp;&emsp;Do you know what the best looking human face looks like? I combined the Chinese pop-star face generator with the world's supermodel face generator in a carefully modulated ratio to create this mixed-blood face generator. <b>The face synthesized by this generator has a unique and outstanding aesthetic style (the customer's evaluation is "Maquatte mask blends with the charm of Orientals"), which in my opinion is the best-looking face currently drawn by AI Generator </b>. However, this generator has been bought out and is not for sale.<br/>
+## Mixed-blood Face Generator（Not open-source）
+&emsp;&emsp;Do you know what the best looking human face looks like? I combined the Chinese pop-star face generator with the world's supermodel face generator in a carefully modulated ratio to create this mixed-blood face generator. <b>The face synthesized by this generator has a unique and outstanding aesthetic style (the customer's evaluation is "Maquatte mask blends with the charm of Orientals"), which in my opinion is the best-looking face currently drawn by AI Generator </b>. However, this generator has been bought out and is not open-source.<br/>
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/mixed-blood.png)<br/><br/>
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/example_mixed-blood.jpg)<br/><br/><br/><br/>
 
@@ -133,8 +133,8 @@
 ![Image text](https://github.com/a312863063/seeprettyface/blob/master/EP001-01.png)<br/><br/><br/>
 
 ## What next:
-&emsp;&emsp;There are three steps that the virtual person take to replace the real person:<br/>
+&emsp;&emsp;There are three steps that the virtual person takes to replace the real person:<br/>
 &emsp;&emsp;1.The virtual person has an attractive appearance that makes people fall in love at first sight.<br />
-&emsp;&emsp;2.The Virtual person has various postures that make people feel natural and comfortable.<br />
-&emsp;&emsp;3.The virtual person has a lovely character that makes people feel warm and cute.<br />
+&emsp;&emsp;2.The virtual person has smooth gestures that make people feel natural and comfortable.<br />
+&emsp;&emsp;3.The virtual person has a lovely character that makes people feel warm and loved.<br />
 <br/><br/><br/>
