@@ -53,8 +53,8 @@
 ![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/SMVC_solution/solution2.png)
 
 # Operation steps
-&emsp;&emsp;1.Download the corresponding model according to the .txt address in the networks folder and place it in this location<br/>
-&emsp;&emsp;2.Select the corresponding model and generation number in main.py and run it.<br/>
+&emsp;&emsp;1.Download the corresponding model according to the address in 'networks/download model from Google Drive.txt',and place the model in the 'networks' folder<br/>
+&emsp;&emsp;2.Select the corresponding model and generated number in main.py and run it.<br/>
 <br /><br /><br />
 
 # Giveaway: Attribute Editor based on StyleGAN2
@@ -110,10 +110,10 @@
 ## 16.Add / reduce some calm emotions
 ![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/edit_photo/change_emotion_easy.jpg)<br /><br /><br />
 
-## 17.Adjust width of the face
+## 17.Adjust the width of the face
 ![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/edit_photo/change_width.jpg)<br /><br /><br />
 
-## 18.Adjust height of the face
+## 18.Adjust the height of the face
 ![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/edit_photo/change_height.jpg)<br /><br /><br />
 
 ## 19.Adjusting to the black race
