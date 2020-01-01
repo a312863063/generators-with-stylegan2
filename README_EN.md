@@ -32,7 +32,7 @@
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/example_yellow.jpg)<br/><br/>
 
 ## Mixed-blood Face Generator（Not open-source）
-&emsp;&emsp;Do you know what the best looking human face looks like? I combined the Chinese pop-star face generator with the world's supermodel face generator in a carefully modulated ratio to create this mixed-blood face generator. <b>The face synthesized by this generator has a unique and outstanding aesthetic style (the customer's evaluation is "Maquatte mask blends with the charm of Orientals"), which in my opinion is the best-looking face currently drawn by AI Generator </b>. However, this generator has been bought out and is not open-source.<br/>
+&emsp;&emsp;Do you know what the best looking human face looks like? I combined the chinese pop-star face generator with the world supermodel face generator in a carefully modulated ratio to create this mixed-blood face generator. <b>The face synthesized by this generator has a unique and outstanding aesthetic style (the customer's evaluation is "Maquatte mask blends with the charm of Orientals"), which in my opinion is the best-looking face currently drawn by AI Generator </b>. However, this generator has been bought out and is not open-source.<br/>
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/mixed-blood.png)<br/><br/>
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/example_mixed-blood.jpg)<br/><br/><br/><br/>
 
