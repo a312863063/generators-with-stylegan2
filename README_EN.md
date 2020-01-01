@@ -49,7 +49,7 @@
 ## Common problem under Windows: "Could not find MSVC/GCC/CLANG installation on this computer" How to solve it?
 &emsp;&emsp;When installing VS2017/VS2019, be sure to select ‘Desktop development using C ++’ (shown below)
 ![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/SMVC_solution/solution1.png)
-&emsp;&emsp;After installation, enter C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/. There will be a folder with a version number. Replace the version written in dnnlib/tflib/custom_ops.py line 29 with the corresponding version number(that is the version I installed), as shown in the figure below.
+&emsp;&emsp;After installation, enter C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/. There will be a folder with a version number. Replace the version written in dnnlib/tflib/custom_ops.py line 29(that is the version I installed) with the corresponding version number, as shown in the figure below.
 ![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/SMVC_solution/solution2.png)
 
 # Operation steps
