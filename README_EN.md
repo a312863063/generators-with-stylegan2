@@ -6,7 +6,7 @@
 <br /><br /><br />
 ## What is the enhancement and value of the new version?
 &emsp;&emsp;The new version based on StyleGAN2 eliminates the occurrence of artifacts and distortion / damage in the picture, making the generation success rate close to 100% (see the randomly generated dataset in README.md), which can be used in mass generation tasks; in addition the quality of the pictures has been further improved, and the clarity has approached the dataset used in official training. <b>I hope that this project will help film, television, advertising, games, and medical & aesthetic workers, and at the same time empower ordinary enthusiasts.</b><br />
-&emsp;&emsp;This project is all free and open source for everyone to play. Note that the copyright owner of the model is: www.seeprettyface.com, Please do not use it for commercial purposes without permission.<br />
+&emsp;&emsp;This project is all free and open source, I hope to help friends in need. I am now in the graduate internship stage. Please do not contact me for business cooperation. Users can use it and bear the legal consequences. The model's copyright belongs to: www.seeprettyface.com. If it is helpful to you, please sponsor at the bottom ~ The training method of this project has also been updated at the bottom.<br />
 
 <br /><br />
 # Effect preview
@@ -132,9 +132,16 @@
 # Learn technical principles & Get training set: [goto www.seeprettyface.com](http://www.seeprettyface.com/)
 ![Image text](https://github.com/a312863063/seeprettyface/blob/master/EP001-01.png)<br/><br/><br/>
 
-## What next:
-&emsp;&emsp;There are three steps that the virtual person takes to replace the real person:<br/>
-&emsp;&emsp;1.The virtual person has an attractive appearance that makes people fall in love at first sight.<br />
-&emsp;&emsp;2.The virtual person has smooth gestures that make people feel natural and comfortable.<br />
-&emsp;&emsp;3.The virtual person has a lovely character that makes people feel warm and loved.<br />
+## Small sponsor~
+<p align="center">
+	<img src="https://github.com/a312863063/seeprettyface/blob/master/sponsor.jpg" alt="Sample"  width="324" height="504">
+	<p align="center">
+		<em>A small sponsor if it helps you~</em>
+	</p>
+</p>
 <br/><br/><br/>
+
+# Training method
+&emsp;&emsp;All models of this project are based on finetune, that is, the new training set is used to fine-tune the official model. However, since the picture quality of my training set is not as good as the FFHQ data set, the training difficulty lies in how to ensure the sharpness of the picture while generating a specific style picture. The key trick is that considering that StyleGAN's face style is controlled by w-space (G_mapping), and the backbone generator (G_synthesis) determines the details of face modeling, so when using the new dataset to finetune the official model, the change trend of the parameters is shown as, quickly scaling the w-space range at first(that equals to adjusting the parameters of 8-FC in G_mapping), and then adjusting the parameters of G_synthesis. This will manifest as the picture quickly changes the style first and then gradually becomes blurred during the training process(becoming blured is because my training set is not as clear as the official one), so we just need to stop artificially just before the pattern is adjusted while image quality has not degraded.<br/>
+&emsp;&emsp;In addition, since the differences between several finetuned generators are mainly (and not completely) in the G_mapping section, and the attribute editor is targeted at G_systhesis, this can explain why the attribute editor can be applied to multiple different generators. Finally, for the mixed-blood face generator, it is essentially made by merging w-space (G_mapping), that is, finding the middle zone of the two latent-code distributions.<br/>
+&emsp;&emsp;The above is the main idea of this project training. The specific parameter settings need to be configured according to the actual situation.<br/><br/><br/>
