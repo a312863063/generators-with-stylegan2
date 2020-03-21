@@ -6,7 +6,7 @@
 <br /><br /><br />
 ## What is the enhancement and value of the new version?
 &emsp;&emsp;The new version based on StyleGAN2 eliminates the occurrence of artifacts and distortion / damage in the picture, making the generation success rate close to 100% (see the randomly generated dataset in README.md), which can be used in mass generation tasks; in addition the quality of the pictures has been further improved, and the clarity has approached the dataset used in official training. <b>I hope that this project will help film, television, advertising, games, and medical & aesthetic workers, and at the same time empower ordinary enthusiasts.</b><br />
-&emsp;&emsp;This project is all free and open source, I hope to help friends in need. I am now in the graduate internship stage. Please do not contact me for business cooperation. Users can use it and bear the legal consequences. The model's copyright belongs to: www.seeprettyface.com. If it is helpful to you, please sponsor at the bottom ~ The training method of this project has also been updated at the bottom.<br />
+&emsp;&emsp;This project is all free and open source, I hope to help friends in need. I am now in the graduate internship stage. Please do not contact me for business cooperation. Users can use it and bear the legal consequences. The model's copyright belongs to: www.seeprettyface.com. If it is helpful to you, please sponsor at the bottom ~ <br />
 
 <br /><br />
 # Effect preview
