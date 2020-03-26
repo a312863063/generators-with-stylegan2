@@ -142,11 +142,7 @@
 ![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/edit_photo/change_race_yellow.jpg)<br /><br /><br />
 
 ## 21.Adjusting to the white race
-![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/edit_photo/change_race_white.jpg)<br /><br /><br /><br /><br />
-
-## More Attempts: Synthesizing Talking Face Videos
-&emsp;&emsp;Recommend Few Shot Vid-to-vid (<a href='https://github.com/NVlabs/few-shot-vid2vid'> Click here to jump </a>) method (the effect is shown in the figure below). <br /> <br /> <br />
-![Image text](https://github.com/NVlabs/few-shot-vid2vid/raw/master/imgs/mona_lisa.gif)<br /><br /><br/><br/>
+![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/edit_photo/change_race_white.jpg)<br /><br /><br /><br /><br /><br />
 
 # Learn technical principles & Get training set: [goto www.seeprettyface.com](http://www.seeprettyface.com/)
 ![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/example_smile.gif)<br/><br/><br/><br/>
