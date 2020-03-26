@@ -46,7 +46,7 @@
 &emsp;&emsp;有趣的事情是，在我开源完上述生成器后，一名视觉杂志社的主编找到我，说想一起探讨是否能做出更有辨识度和“惊艳感”的人脸生成器——<b>因为只有在美学上AI能超越人类的话，这种技术才能有效冲击传统的视觉行业——因为这意味着人们能够花最低的成本获取最优质的资源</b>。更有利的一点是，杂志社有优质的图像素材资源，而我有多变的训练技巧，于是我们合作，做出了这一款“亚洲美人脸”生成器，下面展示一些生成器合成的人脸素材。
 
 ## 港式美人脸
-&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/hongkong-style.jpg)<br/><br/>
+&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/hongkong-style.jpg)<br/>
 
 ## 中式美人脸
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/chinese-style.jpg)<br/><br/>
