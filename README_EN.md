@@ -1,12 +1,13 @@
 # New version of face generators based on StyleGAN2
 
 <br />
-&emsp;&emsp;Here is a series of new face generators based on StyleGAN2. I reworked the old version of the <a href='https://github.com/a312863063/seeprettyface-generator-yellow'>yellow face generator</a>，<a href='https://github.com/a312863063/seeprettyface-generator-wanghong'>chinese internet-celebrity face generator</a>，<a href='https://github.com/a312863063/seeprettyface-generator-star'>chinese pop-star face generator</a>，<a href='https://github.com/a312863063/seeprettyface-generator-model'>world supermodel face generator</a> and <a href='https://github.com/a312863063/seeprettyface-generator-babies'>cute baby face generator</a> based on StyleGAN2, which greatly improved the generation effect. The function of the generator is to provide various styles of face materials for us to use at will, and we don't have to worry about the copyright of the faces because each face is virtual and unique.
+&emsp;&emsp;Here is a series of new face generators based on StyleGAN2, including <a href='https://github.com/a312863063/seeprettyface-generator-yellow'>yellow face generator</a>，<a href='https://github.com/a312863063/seeprettyface-generator-wanghong'>chinese internet-celebrity face generator</a>，<a href='https://github.com/a312863063/seeprettyface-generator-star'>chinese pop-star face generator</a>，<a href='https://github.com/a312863063/seeprettyface-generator-model'>world supermodel face generator</a> and <a href='https://github.com/a312863063/seeprettyface-generator-babies'>cute baby face generator</a> based on the old version, and two more aesthetics generators(ie. <a href='#>mixed blood face generator</a> and <a href='#>Asian beauty face generator</a>)are added, along with a general face attribute editor. Having made so many generators is enough, I will no longer try to make new content related to face generators, but I will explore more practical and more satisfying generation technology to better serve people.<br/>
+&emsp;&emsp;The function of the generator is to provide various styles of face materials for us to use at will, and we don't have to worry about the copyright of the faces because each face is virtual and unique.
 
 <br /><br /><br />
 ## What is the enhancement and value of the new version?
 &emsp;&emsp;The new version based on StyleGAN2 eliminates the occurrence of artifacts and distortion / damage in the picture, making the generation success rate close to 100% (see the randomly generated dataset in README.md), which can be used in mass generation tasks; in addition the quality of the pictures has been further improved, and the clarity has approached the dataset used in official training. <b>I hope that this project will help film, television, advertising, games, and medical & aesthetic workers, and at the same time empower ordinary enthusiasts.</b><br />
-&emsp;&emsp;This project is all free and open source, I hope to help friends in need. I am now in the graduate internship stage. Please do not contact me for business cooperation. Users can use it and bear the legal consequences. The model's copyright belongs to: www.seeprettyface.com. If it is helpful to you, please sponsor at the bottom ~ <br />
+&emsp;&emsp;This project is all free and open source, I hope to help friends in need. I am now in the graduate internship stage. Please do not contact me for cooperation. Users can use it and bear the legal consequences. The model's copyright belongs to: www.seeprettyface.com. If it is helpful to you, please sponsor at the bottom ~ <br />
 
 <br /><br />
 # Effect preview
@@ -34,7 +35,25 @@
 ## Mixed-blood Face Generator（Not open-source）
 &emsp;&emsp;Do you know what the best looking human face looks like? I combined the chinese pop-star face generator with the world supermodel face generator in a carefully modulated ratio to create this mixed-blood face generator. <b>The face synthesized by this generator has a unique and outstanding aesthetic style (the customer's evaluation is "Maquatte mask blends with the charm of Orientals"), which in my opinion is the best-looking face currently drawn by AI Generator </b>. However, this generator has been bought out and is not open-source.<br/>
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/mixed-blood.png)<br/><br/>
-&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/example_mixed-blood.jpg)<br/><br/><br/><br/>
+&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/example_mixed-blood.jpg)<br/><br/><br/>
+
+## Asian beauty Face Generator（Not open-source）
+&emsp;&emsp;The interesting thing is that after I open-source the above generators, a chief editor of a visual magazine found me and discussed with me about whether we can make a more recognizable and "amazing" face generator-<b>because only if AI can surpass humans in aesthetics, can generation technology effectively impact the traditional vision industry, which means that people can get the best resources at the lowest cost</b>. What ’s more beneficial to us is that the magazine has high-quality image material resources, and I have varied training skills, so we just cooperated to make this "Asian beauty face" generator. Some of the face materials synthesized by the generator are shown below.
+
+## Hong-Kong style beautiful faces
+&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/hongkong-style.jpg)<br/>
+
+## Chinese style beautiful faces
+&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/chinese-style.jpg)<br/><br/>
+
+## Japanese style beautiful faces
+&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/japanese-style.jpg)<br/><br/>
+
+## Korean style beautiful faces
+&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/korean-style.jpg)<br/><br/>
+
+## Summary
+&emsp;&emsp;The above-mentioned generators seem a bit appalling, but in fact, this technology is still far from being truly commercialized. If we really want to use it to impact the traditional vision industry, there are at least two problems that need to be solved: 1. Related supporting technologies need to be improved, such as face implantation, animation generation and whole body synthesis, etc.; 2.This needs to be explored that how to build a specific generation technology service system for segmented user groups.<br/><br/><br/>
 
 # Environment configuration
 &emsp;&emsp;· Both Linux and Windows are supported. Linux is recommended for performance and compatibility reasons.<br/>
@@ -58,7 +77,7 @@
 <br /><br /><br />
 
 # Giveaway: Attribute Editor based on StyleGAN2
-&emsp;&emsp;The StyleGAN2-based attribute editor (edit_photo.py) contains the same content as <a href='https://github.com/a312863063/seeprettyface-face_editor'> legacy attribute editor </a>, containing 21 adjustable orientation for simple face attribute editing. This attribute editor applies to all generators of this project (ie yellow, internet-celebrity, star, supermodel, cute baby and mixed-blood face generator) as well as official face generator.<br /><br />
+&emsp;&emsp;The StyleGAN2-based attribute editor (edit_photo.py) contains the same content as <a href='https://github.com/a312863063/seeprettyface-face_editor'> legacy attribute editor </a>, containing 21 adjustable orientation for simple face attribute editing. This attribute editor applies to all generators of this project (ie yellow, internet-celebrity, star, supermodel, cute baby, mixed-blood and Asian beauty face generator) as well as official face generator.<br /><br />
 
 ## Adjustment example
 <br /><b>The following examples use the yellow face generator.</b><br />
@@ -130,7 +149,7 @@
 ![Image text](https://github.com/NVlabs/few-shot-vid2vid/raw/master/imgs/mona_lisa.gif)<br /><br /><br/><br/>
 
 # Learn technical principles & Get training set: [goto www.seeprettyface.com](http://www.seeprettyface.com/)
-![Image text](https://github.com/a312863063/seeprettyface/blob/master/EP001-01.png)<br/><br/><br/>
+![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/example_smile.gif)<br/><br/><br/><br/>
 
 ## Small sponsor~
 <p align="center">
