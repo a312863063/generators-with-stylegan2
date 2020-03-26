@@ -17,7 +17,7 @@ Free model:
 
 Custom model:
        golden ratio mixed-blood face generator（generator_mixed-blood-stylegan2-config-f.pkl）:
-              Bought-out already, not open-source.
+       Asian beauty face generator（generator_trendy-beauty-stylegan2-config-f.pkl）
 
 ---------------------------------------------------
 Model copyright:
