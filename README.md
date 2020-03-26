@@ -1,7 +1,7 @@
 # 基于StyleGAN2的新版人脸生成器
 <i>Read English Introduction：<a href='https://github.com/a312863063/generators-with-stylegan2/blob/master/README_EN.md'>Here</a></i><br />
 <br />
-&emsp;&emsp;这儿是一批基于StyleGAN2制作的新版人脸生成器，既包含基于旧版重制的网红脸，明星脸，超模脸，萌娃脸和黄种人脸生成器，也新增了两款更具美学意义的混血脸和亚洲美人脸生成器。做了这么多款生成器已经足够用，我将不再尝试做人脸生成器相关的新内容，而是去探索更实用、更能满足用户需求的生成技术，以更好地服务人民。<br />
+&emsp;&emsp;这儿是一批基于StyleGAN2制作的新版人脸生成器，既包含基于旧版重制的网红脸，明星脸，超模脸，萌娃脸和黄种人脸生成器，也新增了两款更具美学意义的混血脸和亚洲美人脸生成器，并附赠有适配所有生成器的人脸属性编辑器。做了这么多款生成器已经足够用，我将不再尝试做人脸生成器相关的新内容，而是去探索更实用、更能满足用户需求的生成技术，以更好地服务人民。<br />
 &emsp;&emsp;生成器的作用是可提供我们各种样式的人脸素材，供我们在多种场景下应用并有助于节省寻找真人（人脸）的成本，值得注意的是，<b>每张人脸都是不存在于这个世界上的AI虚拟人物，他们独特且永不重复。</b>
 
 <br /><br /><br />
@@ -42,7 +42,7 @@
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/mixed-blood.png)<br/><br/>
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/example_mixed-blood.jpg)<br/><br/><br/>
 
-## 新美人脸生成器（非开源）
+## 亚洲美人脸生成器（非开源）
 &emsp;&emsp;有趣的事情是，在我开源完上述生成器后，一名视觉杂志社的主编找到我，说想一起探讨是否能做出更有辨识度和“惊艳感”的人脸生成器——<b>因为只有在美学上AI能超越人类的话，这种技术才能有效冲击传统的视觉行业——因为这意味着人们能够花最低的成本获取最优质的资源</b>。更有利的一点是，杂志社有优质的图像素材资源，而我有多变的训练技巧，于是我们合作，做出了这一款“新美人脸”生成器，下面展示一些生成器合成的人脸素材。
 
 ## 港式美人脸
@@ -57,6 +57,8 @@
 ## 韩式美人脸
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/korean-style.jpg)<br/><br/>
 
+## 总结
+&emsp;&emsp;上述这么一大堆生成器看着着实可怕，但其实它离真正的商用之路还早着很呢。。如果真想冲击传统视觉行业的话，至少有两个问题亟待解决。1.相关配套技术设施都有待完善，譬如人脸植入、动画生成、全身合成等等；2.如何围绕精细的用户群构建特定的生成技术服务体系也有待探索。
 
 # 环境配置
 &emsp;&emsp;· Both Linux and Windows are supported. Linux is recommended for performance and compatibility reasons.<br/>
