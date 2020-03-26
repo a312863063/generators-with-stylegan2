@@ -15,9 +15,9 @@
        超模脸生成器（generator_model-stylegan2-config-f.pkl）：
               下载地址：https://pan.baidu.com/s/1i7_R1PTuSgEwL0nETF9zxA  提取码：5d4f
 
-特制模型：
-       黄金比例混血脸生成器（generator_mixed-blood-stylegan2-config-f.pkl）:
-              已被买断，非卖品。
+未开源模型：
+       黄金比例混血脸生成器（generator_mixed-blood-stylegan2-config-f.pkl）
+       亚洲美人脸生成器（generator_trendy-beauty-stylegan2-config-f.pkl）
 
 模型效果预览（均含1万张纯随机的生成样本）：
       网红脸数据集：
