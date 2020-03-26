@@ -1,7 +1,7 @@
 # 基于StyleGAN2的新版人脸生成器
 <i>Read English Introduction：<a href='https://github.com/a312863063/generators-with-stylegan2/blob/master/README_EN.md'>Here</a></i><br />
 <br />
-&emsp;&emsp;这儿是一批基于StyleGAN2制作的新版人脸生成器，即对于旧版的<a href='https://github.com/a312863063/seeprettyface-generator-yellow'>黄种人脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-wanghong'>网红脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-star'>明星脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-model'>超模脸生成器</a>和<a href='https://github.com/a312863063/seeprettyface-generator-babies'>萌娃脸生成器</a>进行了基于StyleGAN2的重制，使生成效果得到大幅提升。生成器的作用是可提供我们各种样式的人脸素材，供我们在多种场景下应用并有助于节省寻找真人（人脸）的成本，值得注意的是，<b>每张人脸都是不存在于这个世界上的AI虚拟人物，他们独特且永不重复</b>。
+&emsp;&emsp;这儿是一批基于StyleGAN2制作的新版人脸生成器，既有对于旧版生成器的重制（这些都免费开源），也有两款效果更佳、视觉上更具冲击力的高颜值人脸生成器。生成器的作用是可提供我们各种样式的人脸素材，供我们在多种场景下应用并有助于节省寻找真人（人脸）的成本，值得注意的是，<b>每张人脸都是不存在于这个世界上的AI虚拟人物，他们独特且永不重复。</b>
 
 <br /><br /><br />
 ## 新版的提升与价值何在？
@@ -36,10 +36,28 @@
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/example_yellow.jpg)<br/><br/>
 &emsp;&emsp;纯随机生成(无筛选)的一万张生成图片数据集：<a href='https://pan.baidu.com/s/1uC5fQ4UTALA1uU36Cgnnnw'>https://pan.baidu.com/s/1uC5fQ4UTALA1uU36Cgnnnw</a>  提取码：rqvq <br/><br/>
 
-## 混血人脸生成器（非卖）
+## 混血人脸生成器（非开源）
 &emsp;&emsp;你知道长得最好看的人脸是什么样吗？我将中国明星脸生成器与世界超模脸生成器按精心调制的比例融合起来，制作出了此混血人脸生成器。<b>此生成器合成的人脸具备独特且卓绝的美学风格（用户的评价是“马夸特面具融入了东方人的韵味”），是我认为目前AI画出的最好看的人脸生成器</b>。然而此生成器已被买断属于非卖品。<br/>
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/mixed-blood.png)<br/><br/>
-&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/example_mixed-blood.jpg)<br/><br/><br/><br/>
+&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/example_mixed-blood.jpg)<br/><br/><br/>
+
+## 潮流美人脸生成器（非开源）
+&emsp;&emsp;有趣的事情是，在我开源完上述生成器后，一位知名视觉杂志社的主编找到我，说想一起探讨是否能做出更有辨识度和“惊艳感”的人脸生成器——<b>因为只有在美学上AI能超越人类的话，这种技术才能有效冲击传统的视觉行业——因为这意味着人们能够花最低的成本获取最优质的资源</b>。更有利的一点是，杂志社有优质的图像素材资源，而我有多变的训练技巧，于是我们合作，做出了这一款“潮流美人脸”生成器，下面展示一些生成器合成的人脸素材。
+
+### 港式美人脸
+&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/hongkong-style.jpg)<br/><br/>
+
+### 中式美人脸
+&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/chinese-style.jpg)<br/><br/>
+
+### 日式美人脸
+&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/japanese-style.jpg)<br/><br/>
+
+### 韩式美人脸
+&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/korean-style.jpg)<br/><br/>
+
+## Ending
+&emsp;&emsp;综上，我关于人脸生成器的探索已经结束（这么多款已经足够用），不过离真正的商用之路其实还有很远的距离。一方面，技术层面上人脸植入、动画生成、全身合成等配套内容都有待完善，另一方面，商业体系上如何围绕精细的用户群构建特定的生成技术服务也有待探索。<br/><br/><br/>
 
 # 环境配置
 &emsp;&emsp;· Both Linux and Windows are supported. Linux is recommended for performance and compatibility reasons.<br/>
@@ -135,7 +153,7 @@
 ![Image text](https://github.com/NVlabs/few-shot-vid2vid/raw/master/imgs/mona_lisa.gif)<br /><br /><br/><br/>
 
 # 了解技术原理 & 获取训练集：[点此进入](http://www.seeprettyface.com/)
-![Image text](https://github.com/a312863063/seeprettyface/blob/master/EP001-01.png)<br/><br/><br/>
+![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/edit_photo/example_smile.gif)<br/><br/><br/>
 
 ## 小小的赞助~
 <p align="center">
