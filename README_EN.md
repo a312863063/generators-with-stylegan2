@@ -37,19 +37,19 @@
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/mixed-blood.png)<br/><br/>
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/example_mixed-blood.jpg)<br/><br/><br/>
 
-## Asian beauty Face Generator（Not open-source）
-&emsp;&emsp;The interesting thing is that after I open-source the above generators, a chief editor of a visual magazine found me and discussed with me about whether we can make a more recognizable and "amazing" face generator-<b>because only if AI can surpass humans in aesthetics, can generation technology effectively impact the traditional vision industry, which means that people can get the best resources at the lowest cost</b>. What ’s more beneficial to us is that the magazine has high-quality image material resources, and I have varied training skills, so we just cooperated to make this "Asian beauty face" generator. Some of the face materials synthesized by the generator are shown below.
+## Asian Beauty Face Generator（Not open-source）
+&emsp;&emsp;The interesting thing is that after I open-source the above generators, a chief editor of a visual magazine found me and discussed with me about whether we can make a more recognizable and "amazing" face generator-<b>because only if AI can surpass humans in aesthetics, generation technology can effectively impact the traditional vision industry, which means that people can get the best resources at the lowest cost</b>. What ’s more beneficial to us is that the magazine has high-quality image material resources, and I have varied training skills, so we just cooperated to make this "Asian beauty face" generator. Some of the face materials synthesized by the generator are shown below.
 
-## Hong-Kong style beautiful faces
+## Hong-Kong style beauty faces
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/hongkong-style.jpg)<br/>
 
-## Chinese style beautiful faces
+## Chinese style beauty faces
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/chinese-style.jpg)<br/><br/>
 
-## Japanese style beautiful faces
+## Japanese style beauty faces
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/japanese-style.jpg)<br/><br/>
 
-## Korean style beautiful faces
+## Korean style beauty faces
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/korean-style.jpg)<br/><br/>
 
 ## Summary
