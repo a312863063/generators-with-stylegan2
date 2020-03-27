@@ -78,7 +78,7 @@
 
 # 运行步骤
 &emsp;&emsp;1.在networks文件夹中按照txt地址下载对应模型，放在该位置<br/>
-&emsp;&emsp;2.在main.py中选择对应的模型和生成数量，并运行main.py<br/>
+&emsp;&emsp;2.在main.py中选择对应的模型和生成数量(另如果觉得生成的多样性不够可以尝试调高truncation_psi，不过成功率会下降)，并运行main.py<br/>
 <br /><br /><br />
 
 # 赠品：基于StyleGAN2的属性编辑器
