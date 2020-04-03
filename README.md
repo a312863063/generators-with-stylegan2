@@ -48,14 +48,9 @@
 ## 港式美人脸
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/hongkong-style.jpg)<br/>
 
-## 中式美人脸
-&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/chinese-style.jpg)<br/><br/>
-
 ## 日式美人脸
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/japanese-style.jpg)<br/><br/>
 
-## 韩式美人脸
-&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/korean-style.jpg)<br/><br/>
 
 ## 总结
 &emsp;&emsp;上述这么多生成器看着有点可怕，但其实它离真正的商用之路还早着很呢。。如果真想冲击传统视觉行业的话，至少有两个问题亟待解决：1.相关配套技术有待完善，譬如人脸植入、妆容精细控制、动画及全身合成等等；2.如何围绕精细的用户群构建特定的生成技术服务体系也有待探索。
