@@ -140,7 +140,10 @@
 ![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/edit_photo/change_race_white.jpg)<br /><br /><br /><br /><br /><br />
 
 # Learn technical principles & Get training set: [goto www.seeprettyface.com](http://www.seeprettyface.com/)
-![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/example_smile.gif)<br/><br/><br/><br/>
+<p>
+	<img src="https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/virtual-model.gif" alt="Sample"  width="512" height="512">
+</p>
+<br/><br/><br/><br/>
 
 ## Small sponsor~
 <p align="center">
