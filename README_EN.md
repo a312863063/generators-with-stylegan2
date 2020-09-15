@@ -141,7 +141,7 @@
 
 # Learn technical principles & Get training set: [goto www.seeprettyface.com](http://www.seeprettyface.com/)
 <p>
-	<img src="https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/virtual-model.gif" alt="Sample"  width="512" height="512">
+	<img src="https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/virtual-model.gif" alt="Sample"  width="512">
 </p>
 <br/><br/><br/><br/> 
 
