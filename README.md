@@ -147,7 +147,7 @@
 
 # 了解技术原理 & 获取训练集：[点此进入](http://www.seeprettyface.com/)
 <p>
-	<img src="https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/virtual-model.gif" alt="Sample"  width="512" height="100%">
+	<img src="https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/virtual-model.gif" alt="Sample"  width="1024">
 </p>
 <br/><br/><br/><br/>
 
