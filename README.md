@@ -149,6 +149,7 @@
 <p align="center">
 	<img src="https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/virtual-model.gif" alt="Sample"  width="512" height="512">
 </p>
+<br/><br/><br/>
 
 ## 小小的赞助~
 <p align="center">
