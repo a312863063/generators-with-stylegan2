@@ -1,7 +1,7 @@
 # 基于StyleGAN2的新版人脸生成器
 <i>Read English Introduction：<a href='https://github.com/a312863063/generators-with-stylegan2/blob/master/README_EN.md'>Here</a></i><br />
 <br />
-&emsp;&emsp;这儿是一批基于StyleGAN2制作的新版人脸生成器，既包含基于旧版重制的<a href='https://github.com/a312863063/seeprettyface-generator-wanghong'>网红脸</a>，<a href='https://github.com/a312863063/seeprettyface-generator-star'>明星脸</a>，<a href='https://github.com/a312863063/seeprettyface-generator-model'>超模脸</a>，<a href='https://github.com/a312863063/seeprettyface-generator-babies'>萌娃脸</a>和<a href='https://github.com/a312863063/seeprettyface-generator-yellow'>黄种人脸</a>生成器，也新增了两款更具美学意义的<a href='#'>混血脸</a>和<a href='#'>亚洲美人脸</a>生成器，并附赠有通配的人脸属性编辑器。做了这么多款生成器已经足够用，我将不再尝试做人脸生成器相关的新内容，而是去探索更实用、更能满足用户需求的生成技术，以更好地服务人民。<br />
+&emsp;&emsp;这儿是一批基于StyleGAN2制作的新版人脸生成器，既包含基于旧版重制的<a href='https://github.com/a312863063/seeprettyface-generator-wanghong'>网红脸</a>，<a href='https://github.com/a312863063/seeprettyface-generator-star'>明星脸</a>，<a href='https://github.com/a312863063/seeprettyface-generator-model'>超模脸</a>，<a href='https://github.com/a312863063/seeprettyface-generator-babies'>萌娃脸</a>和<a href='https://github.com/a312863063/seeprettyface-generator-yellow'>黄种人脸</a>生成器，也新增了两款更具美学意义的<a href='#'>混血脸</a>和<a href='#'>亚洲美人脸</a>生成器，并附赠有通配的人脸属性编辑器。做了这么多款生成器已经足够用，我将不再尝试做人脸生成器相关的新内容，而是去探索更实用、更能满足用户需求的生成技术，以更好地服务人民（譬如<a href='https://github.com/a312863063/Video-Auto-Wipe'>Video-Auto-Wipe</a>可以了解一下）。<br />
 &emsp;&emsp;生成器的作用是可提供我们各种样式的人脸素材，供我们在多种场景下应用并有助于节省寻找真人（人脸）的成本，值得注意的是，<b>每张人脸都是不存在于这个世界上的AI虚拟人物，他们独特且永不重复。</b>
 
 <br /><br /><br />
@@ -53,7 +53,7 @@
 
 
 ## 总结
-&emsp;&emsp;上述这么多生成器看着有点可怕，但其实它离真正的商用之路还早着很呢。。如果真想冲击传统视觉行业的话，至少有两个问题亟待解决：1.相关配套技术有待完善，譬如人脸植入、妆容精细控制、动画及全身合成等等；2.如何围绕精细的用户群构建特定的生成技术服务体系也有待探索。
+&emsp;&emsp;上述这么多生成器看着有点可怕，但其实它离真正的商用之路还早着很呢（<a href='https://github.com/a312863063/Model-Swap-Face'>Model-Swap-Face</a>是一种可能的方向？）。。如果真想冲击传统视觉行业的话，至少有两个问题亟待解决：1.相关配套技术有待完善，譬如人脸植入、妆容精细控制、动画及全身合成等等；2.如何围绕精细的用户群构建特定的生成技术服务体系也有待探索。
 
 # 环境配置
 &emsp;&emsp;· Both Linux and Windows are supported. Linux is recommended for performance and compatibility reasons.<br/>
