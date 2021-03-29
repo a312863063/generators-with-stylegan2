@@ -48,7 +48,7 @@
 
 
 ## Summary
-&emsp;&emsp;The above-mentioned generators seem a bit appalling, but in fact, this technology is still far from being truly commercialized((<a href='https://github.com/a312863063/Model-Swap-Face'>Model-Swap-Face</a> might be one possibility?))... If we really want to use it to impact the traditional vision industry, there are at least two problems that need to be solved: 1. Related supporting technologies need to be improved, such as face implantation, animation generation and whole body synthesis, etc.; 2.It needs to be explored that how to build a specific generation technology service system for segmented user groups.<br/><br/><br/>
+&emsp;&emsp;The above-mentioned generators seem a bit appalling, but in fact, this technology is still far from being truly commercialized(<a href='https://github.com/a312863063/Model-Swap-Face'>Model-Swap-Face</a> might be one possibility?)... If we really want to use it to impact the traditional vision industry, there are at least two problems that need to be solved: 1. Related supporting technologies need to be improved, such as face implantation, animation generation and whole body synthesis, etc.; 2.It needs to be explored that how to build a specific generation technology service system for segmented user groups.<br/><br/><br/>
 
 # Environment configuration
 &emsp;&emsp;· Both Linux and Windows are supported. Linux is recommended for performance and compatibility reasons.<br/>
