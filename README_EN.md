@@ -46,6 +46,9 @@
 ## Japanese style beauty faces
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/japanese-style.jpg)<br/><br/>
 
+## E-commercial（Not open-source）
+&emsp;&emsp;For cross-border e-commerce, a large number of customized model materials are usually required, such as black models:<br/><br/>
+![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/black_model.jpg)<br/><br/><br/>
 
 ## Summary
 &emsp;&emsp;The above-mentioned generators seem to be fully available, but in fact, this technology is still far from being truly commercialized(<a href='https://github.com/a312863063/Model-Swap-Face'>Model-Swap-Face</a> might be one possibility?)... If we really want to use it to impact the traditional vision industry, there are at least two problems that need to be solved: 1. Related supporting technologies need to be improved, such as face implantation, animation generation and whole body synthesis, etc.; 2.It needs to be explored that how to build a specific generation technology service system for segmented user groups.<br/><br/><br/>
