@@ -47,7 +47,7 @@
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/japanese-style.jpg)<br/><br/>
 
 ## E-commercial（Not open-source）
-&emsp;&emsp;For cross-border e-commerce, a large number of customized model materials are usually required, such as black models:<br/><br/>
+&emsp;&emsp;For cross-border e-commerce, a large number of customized model materials are required, such as black models:<br/><br/>
 ![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/black_model.jpg)<br/><br/><br/>
 
 ## Summary
