@@ -49,11 +49,14 @@
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/hongkong-style.jpg)<br/>
 
 ## 日式美人脸
-&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/japanese-style.jpg)<br/><br/>
+&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/japanese-style.jpg)<br/><br/><br/>
 
+## 电商定制（非开源）
+&emsp;&emsp;对于跨境电商来说，通常需要大量定制化的模特素材，例如黑人模特：<br/><br/>
+![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/black_model.jpg)<br/><br/><br/>
 
 ## 总结
-&emsp;&emsp;上述这么多生成器看着有点可怕，但其实它离真正的商用之路还早着很呢（<a href='https://github.com/a312863063/Model-Swap-Face'>Model-Swap-Face</a>是一种可能的方向？）。。如果真想冲击传统视觉行业的话，至少有两个问题亟待解决：1.相关配套技术有待完善，譬如人脸植入、妆容精细控制、动画及全身合成等等；2.如何围绕精细的用户群构建特定的生成技术服务体系也有待探索。
+&emsp;&emsp;上述这么多生成器看着有点可怕，但其实它离真正的商用之路还早着很呢（<a href='https://github.com/a312863063/Model-Swap-Face'>Model-Swap-Face</a>是一种可能的方向？）。。如果真想冲击传统视觉行业的话，至少有两个问题亟待解决：1.相关配套技术有待完善，譬如人脸植入、妆容精细控制、动画及全身合成等等；2.如何围绕精细的用户群构建特定的生成技术服务体系也有待探索。<br/><br/>
 
 # 环境配置
 &emsp;&emsp;· Both Linux and Windows are supported. Linux is recommended for performance and compatibility reasons.<br/>
