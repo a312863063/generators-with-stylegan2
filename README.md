@@ -67,6 +67,8 @@
 &emsp;&emsp;· Docker users: use the provided <a href='https://github.com/NVlabs/stylegan2/blob/master/Dockerfile'>Dockerfile</a> to build an image with the required library dependencies.<br/>
 &emsp;&emsp;- On Windows, the compilation requires Microsoft Visual Studio to be in PATH. We recommend installing <a href='https://visualstudio.microsoft.com/vs/'>Visual Studio Community Edition</a> and adding into PATH using "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\Build\vcvars64.bat".<br/>
 &emsp;&emsp;我的测试环境配置为：Win10,1050Ti,CUDA 10.0,CuDNN 7.6.5,tensorflow-gpu 1.14.0，VS2017可完美运行。<br/><br/>
+&emsp;&emsp;我的Linux测试环境配置为：Ubuntu20.04,2080Ti,gcc7,g++-7,CUDA 10.0,CuDNN 7.6.5,tensorflow-gpu 1.14.0，可完美运行。<br/><br/>
+
 
 ## Windows下常见问题 ：Could not find MSVC/GCC/CLANG installation on this computer如何解决？
 &emsp;&emsp;在安装VS2017/VS2019时一定要将‘使用C++的桌面开发’选上（如下图所示）
