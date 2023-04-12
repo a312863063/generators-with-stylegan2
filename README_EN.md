@@ -7,7 +7,7 @@
 <br /><br /><br />
 ## What is the enhancement and value of the new version?
 &emsp;&emsp;The new version based on StyleGAN2 eliminates the occurrence of artifacts and distortion / damage in the picture, making the generation success rate close to 100% (see the randomly generated dataset in README.md), which can be used in mass generation tasks; in addition the quality of the pictures has been further improved, and the clarity has approached the dataset used in official training. <b>I hope that this project will help film, television, advertising, games, and medical & aesthetic workers, and at the same time empower ordinary enthusiasts.</b><br />
-&emsp;&emsp;This project is all free and open source, I hope to help friends in need. The model is for play and research use only, and commercial use is not allowed without authorization. The model's copyright belongs to: www.seeprettyface.com (The website has updated the new technology effects of virtual human speech, animation and performance). If it is helpful to you, please sponsor at the bottom ~ <br />
+&emsp;&emsp;This project is all free and open source, I hope to help friends in need. The model is for play and research use only, and commercial use is not allowed without authorization. The model's copyright belongs to: [www.seeprettyface.com](https://www.seeprettyface.com). If it is helpful to you, please sponsor at the bottom ~ <br />
 
 <br /><br />
 # Effect preview
@@ -44,7 +44,9 @@
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/hongkong-style.jpg)<br/>
 
 ## Japanese style beauty faces
-&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/japanese-style.jpg)<br/><br/>
+&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/japanese-style.jpg)<br/>
+<p align="center">
+If you want to create a graphic, you can obtain images through <a href='http://seeprettyface.com/order_my_face.html'>this interface</a> with a truncation rate of 0.8.</p><br/><br/>
 
 ## E-commercial（Not open-source）
 &emsp;&emsp;For cross-border e-commerce, a large number of customized model materials are required, such as black models:<br/><br/>
