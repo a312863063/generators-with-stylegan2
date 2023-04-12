@@ -7,7 +7,7 @@
 <br /><br /><br />
 ## 新版的提升与价值何在？
 &emsp;&emsp;基于StyleGAN2制作的版本消除了图片中水滴斑点和扭曲/损坏现象的出现，使生成的成功率接近100%（可参见下方随机生成的数据集），能被应用于大批量生成任务之中；另外图片的质量进一步提升，清晰度已逼近于官方训练所采用的数据集。<b>我希望，这个项目能为影视、广告、游戏和医美工作者们助力，同时为普通爱好者们赋能。</b><br />
-&emsp;&emsp;此项目已大部分免费开源，希望能帮助到有需要的朋友。模型版权所有为：www.seeprettyface.com (网站上更新了虚拟人说话、动画、表演的新技术效果)，已完全开放给大家，请在合理的范围内使用。若对您有帮助欢迎在底部给予小小的赞助~<br />
+&emsp;&emsp;此项目已大部分免费开源，希望能帮助到有需要的朋友。模型版权所有为：[www.seeprettyface.com](https://www.seeprettyface.com)，已完全开放给大家，请在合理的范围内使用。若对您有帮助欢迎在底部给予小小的赞助~<br />
 
 <br /><br />
 # 效果预览
@@ -49,7 +49,8 @@
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/hongkong-style.jpg)<br/>
 
 ## 日式美人脸
-&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/japanese-style.jpg)<br/><br/><br/>
+&emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/japanese-style.jpg)<br/>
+<p align="center">如果您想作图可以在<a href='http://seeprettyface.com/order_my_face.html'>这个接口</a>取得图片，接口截断率=0.8</p><br/><br/><br/>
 
 ## 电商定制（非开源）
 &emsp;&emsp;对于跨境电商来说，通常需要大量定制化的模特素材，例如黑人模特：<br/><br/>
